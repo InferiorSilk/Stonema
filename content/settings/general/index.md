@@ -2,6 +2,6 @@
 headless = true
 title = "Stonema Blog"
 description = "Alec"
-footerLeft = ""
+footerLeft = "[lilo.blog](lilo.blog)"
 footerRight = ""
 +++
