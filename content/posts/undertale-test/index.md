@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Undertale"]
 image = "header.jpg"
-description = "Ein Wiki für das Spiel Undertale"
+description = "An Undertale Wiki"
 +++
 
 
