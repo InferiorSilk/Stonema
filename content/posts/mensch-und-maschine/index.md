@@ -6,9 +6,7 @@ pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "bild1.jpg"
 +++
-# Mensch und Maschine:
-
-# Wie viel Macht haben wir noch?
+# Mensch und Maschine: Wie viel Macht haben wir noch?
 
 {{<lead>}}
 Algorithmen und künstliche Intelligenz werden immer prominenter, doch wie abhängig sind wir wirklich?
@@ -18,9 +16,15 @@ Algorithmen und künstliche Intelligenz werden immer prominenter, doch wie abhä
 
 In einer Pause zwischen zwei Lektionen Einführung Wirtschaft und Recht (EWR) sieht Nicolas Kiechler, Fachlehrperson für Wirtschaft und Recht am Gymnasium Kirchenfeld, wie ein Schüler mithilfe von Copilot, der künstlichen Intelligenz von Microsoft, eine ganze HTML-Datei in eine einzige Zeile umschreibt. Obwohl er einer der jüngsten Lehrkräfte an dem gesamten Gymnasium ist, kam er in seinem Studium nicht in Kontakt mit ähnlichen Technologien: «Es war nicht so verbreitet, wie es heute der Fall ist.» Schüler heutzutage haben mehr Freiheit: «Verschiedenste Male wird das benutzt», sagt Kiechler über ChatGPT. Neugierde ist doch normal, oder? Aus diesem Grund treffen wir uns einige Wochen später online zum Interview: ChatGPT und Schulen, sollte das erlaubt sein? Der Gymnasiallehrer ist der Meinung, die Benutzung dieser Technologie sollte in Bildungsinstitutionen sogar gefördert werden: «Es ist ein Hilfsmittel, das den Schülerinnen und Schülern zur Verfügung steht», so Kiechler. Auf die Frage, ob diese Werkzeuge ohne Einschränkungen zur Verfügung gestellt werden sollten, weiss er keine klare Antwort: «Wenn ich bei Chat-GPT im Beispiel mir irgendetwas generieren lasse, muss ich einfach in der Lage sein zu urteilen: Ist das jetzt etwas Gutes oder nicht?» Dafür müsse man die Materie auch zu einem gewissen Grad verstehen, das Urteilsvermögen der Schüler dazu könne jedoch fehlen. Der Umgang mit diesen generativen KIs müsste also bewusst gesteuert und kontrolliert werden. Eine Gefährdung sieht er bereits, es entstehe eine Faulheit. Wenn man alles manuell machen würde, müsse man für Microsoft Excel mehr wissen, als wenn man alles von einer KI generieren lassen würde. Die «Bequemlichkeit», die durch diese einfachere Lösung – Künstlicher Intelligenz – entstehe, sieht Nicolas Kiechler auch an der Berufsschule, an der er ebenfalls unterrichtet: «Dort werden Mails teilweise ausschliesslich mit ChatGPT geschrieben», schriftliche Texte zu verlangen, wäre «Voll der Fehler».
 
+
+
 {{<box>}}
 
 ChatGPT ist eine sprachbasierte künstliche Intelligenz, die seit Ende 2019 der Öffentlichkeit zur Verfügung steht. Die KI kann auf natürliche Weise mit Benutzern unterhalten und auf Fragen antworten. Die neueste Version (stand April 2024) kann sogar das Internet für den Benutzer durchsuchen – etwas, was der Vorgänger aus Sicherheitsgründen nicht konnte, was die Korrektheit der Antworten verbesserte, jedoch nicht fehlerfrei macht. 
+
+{{</box>}}
+
+
 
 ## Ungleichheiten bleiben
 
@@ -28,9 +32,26 @@ Weder Menschen noch Algorithmen sind gänzlich neutral oder überall geeignet. I
 Sogar Rassismus sei ein Problem, zeigt ein britischer Bericht von Findhr.eu. Die KI-basierten Systeme zeigten eine Tendenz, Migranten auszuschliessen, selbst wenn sie besser für den Job geeignet gewesen wären. Selbst wenn man die Hochschule im Ausland abgeschlossen hätte, würde man mit einer Wahrscheinlichkeit von ungefähr 80% eine tiefere Bewertung erhalten. Diese Ergebnisse seien nicht absolut und bräuchten weitere internationale Überprüfung und Bestätigung, jedoch ist ein beängstigender Trend sichtbar. Künstliche Intelligenzen nehmen rassistische und sexistische Angewohnheiten an, da sie von älteren Datensets lernen, in denen diese heute inkorrekten Haltungen präsent waren. Diese Algorithmen geben also nur die menschlichen rassistischen Muster wieder.
 Gesellschaftliche Kritiken gegenüber diesen Verhaltensmustern können sich aber auch negativ auswirken: Die generative Bilderstellungs-KI von OpenAI, DALL-E, wurde dafür kritisiert, zu viele «weisse» Bilder zu erstellen, was in der «Imagen» KI von Google überkompensiert wurde: Historische Figuren werden teil-weise mit falscher Hautfarbe generiert. 
 
+
+{{<box>}}
+
+ATS oder Applicant Tracking Systems, auf Deutsch Bewerbermanagementsystem, sind Algorithmen, die Job-Kandidaten automatisch nach Qualifikation filtern und auswählen sollen. Dafür analysiert es Bewerbungen und vergleicht diese mit einer Datenbank, um die besten herauszufiltern.
+
+{{</box>}}
+
+
+
 ## Sind wir KI-abhängig?
 
 Als komfortables und unkompliziertes Hilfsmittel ist KI gerne die erste Anfragestelle bei Problemen. Entwickeln wir so eine Abhängigkeit? Eindeutig, findet Leutenegger: «Es wird so sein, wie es ist, und die Abhängigkeit ist da». Bereits heutzutage findet man diese: Die Bern-Lötschberg-Simplon-Bahn (BLS), kann ohne ihr Ressourcenplanungssystem langfristig nicht funktionieren. Im Gegensatz zu Kiechler  empfindet er diese Situation jedoch als weitaus weniger schlimm: «Ich finde, Technologie und die Möglichkeiten, die Technologie bieten, die sind brillant, das ist genial.» Massnahmen werden bei solch wichtigen Systemen aber immer ergriffen: «Wenn wir wissen, dass ein System für den operativen Betrieb des Unternehmens, also bei uns jetzt Zugfahren zum Beispiel, kritisch ist und dass man ohne dieses System nicht fahren kann, dann muss man einfach schauen, dass das System stabil ist und entsprechend dann, wenn die Organisation dahinter haben, wenn es eine Panne gibt, dass man dann sofort reagieren kann.» Eine Voreingenommenheit sieht er bei sich selbst natürlich auch, Angst haben muss man also nach ihm nicht, es sei keine andere Entwicklung, als es auch schon in der Vergangenheit gab. Als Beispiel gab er uns das Smartphone: Er sei ohne ein solches aufgewachsen, aber er würde es selbst nicht mehr freiwillig weglegen. Solche Veränderungen und Entwicklungen seien also nichts Neues in dem Sinn, Zweifel seien normal, doch Versuche, diese technische Entwicklung aufzuhalten, wären nutzlos: «Was technologisch möglich ist, wird gemacht. Immer. Irgendwo. Das ist so. Man kann die Innovation und die technologischen Möglichkeiten nicht einschränken, dass es nicht gemacht wird. Klappt nicht.» Sicherheit ist jedoch nicht das einzige Problem: Privatsphäre wird gerade intensiv von verschiedenen Autoritäten diskutiert. Gerade weil die Benutzung künstlicher Intelligenzen zunimmt und zunehmen wird, entstehen immer mehr Konflikte, zum Beispiel Urheberrechtsverletzungen bei Bildern, die verwendet wurden, um generative KIs zu trainieren. Diese urheberrechtlich geschützten Bilder können dann von der KI als «Inspiration» für «neue» Bilder benutzt werden. Laut Leutenegger ist das aber kein Grund zur Sorge, es würden sich in der Zukunft Regeln und Gesetzte einpendeln, mit denen schliesslich eine korrekte und faire Benutzung gewährleistet werden kann.
+
+{{<box>}}
+
+Das Ressourcenplanungssystem der BLS plant den Verkehr der Züge. Es teilt Lokführer auf gewisse Strecken, auf denen sie zertifiziert sind, zu, und weist ihnen einen bestimmten Zug zu.
+
+{{</box>}}
+
+
 
 ## Entwicklung – Eine Gefahr für die Gesellschaft?
 
@@ -45,8 +66,13 @@ Letztendlich liegt die Macht nicht in den Maschinen selbst, sondern in der Art u
 
 
 
-\# Quellenverzeichnis
 
+
+
+
+
+
+\# Quellenverzeichnis
 
 * Paksy Plackis-Cheng, Dr. Tejo Chalasani, Sabrina Palme, et al. (10. Dezember, 2023). Ensuring Human Intelligence in AI Hiring Tools. Zugriff am 03. März 2024, von 
   https://findhr.eu/wp-content/uploads/2024/01/FINDHR-Expert-Report_by-Paksy-Plackis-Cheng-et-al.pdf
