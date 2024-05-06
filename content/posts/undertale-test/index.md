@@ -7,6 +7,8 @@ tags = ["Undertale"]
 image = "header.jpg"
 description = "Ein Wiki für das Spiel Undertale"
 +++
+
+
 ![](undertalebanner.png)
 
 ## Welcome to the Undertale Wiki
