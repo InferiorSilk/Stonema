@@ -9,7 +9,7 @@ image = ""
         body {
             background-color: #0F1112;
             font-family: Arial, Helvetica, sans-serif;
-            color: #E1E1E1;
+            color: #FFFFFF;
             text-align: center;
             margin: 0;
             padding: 0;
