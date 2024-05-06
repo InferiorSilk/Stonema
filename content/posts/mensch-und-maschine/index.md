@@ -5,6 +5,7 @@ draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "bild1.jpg"
+description = "Eine Reportage über das Thema Algorithmen von Alec und Aaron"
 footnotes = ""
 +++
 # Mensch und Maschine: Wie viel Macht haben wir noch?
