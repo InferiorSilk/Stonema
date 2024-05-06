@@ -12,4 +12,4 @@ Test Mech und machin
 
 Sehr langer Kasten Text der sehr lang ist und sehr unnötig, da er nur der überprüfung dient.
 
-{{<\box>}}
+{{</box>}}
