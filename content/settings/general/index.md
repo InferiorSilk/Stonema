@@ -1,6 +1,6 @@
 +++
 headless = true
-title = "Stonema"
+title = "Stonema Blog"
 description = "Alec"
 footerLeft = ""
 footerRight = ""
