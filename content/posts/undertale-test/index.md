@@ -19,7 +19,7 @@ Long ago, a war between humans and monsters led to the monsters being sealed und
 
 ### Frisk
 
-![#### <https://undertale.fandom.com/wiki/Frisk>](frisk.webp "Frisk")
+![https://undertale.fandom.com/wiki/Frisk](frisk.webp "Frisk")
 
 The Main Character
 
