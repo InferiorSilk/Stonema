@@ -7,8 +7,6 @@ tags = ["Undertale"]
 image = "header.jpg"
 description = "An Undertale Wiki"
 +++
-
-
 ![](undertalebanner.png)
 
 ## Welcome to the Undertale Wiki
@@ -57,9 +55,13 @@ Sans is one of the characters the player encounters in the underground world of 
 
 Sans' backstory is only hinted at in the game, but it's implied that he and his brother Papyrus were scientists who conducted research related to time and space manipulation. This is why Sans seems to have some awareness of the game's mechanics and the player's actions. Overall, Sans is a unique and memorable character in "Undertale" due to his blend of humor, depth, and mystery. His impact on the game's story and his interactions with the player make him a fan-favorite character.
 
+{{<box>}}
+
 ### Sans Fight
 
 <https://jcw87.github.io/c2-sans-fight/>
+
+{{</box>}}
 
 ### Toriel
 
