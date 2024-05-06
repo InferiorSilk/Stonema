@@ -5,205 +5,7 @@ draft = false
 pinned = false
 image = ""
 +++
-<!--StartFragment-->
-
-
-
-<head>
-
-    <meta charset="UTF-8">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Undertale Wiki</title>
-
-    <link rel="icon" type="image/png" href="undertale.png">
-
-    <style>
-
-        body {
-
-            background-color: #0F1112;
-
-            font-family: Arial, Helvetica, sans-serif;
-
-            color: #E1E1E1;
-
-            text-align: center;
-
-            margin: 0;
-
-            padding: 0;
-
-        }
-
-       
-
-        a:link,
-
-        a:visited {
-
-            color: #D8D8D8;
-
-            background-color: transparent;
-
-            text-decoration: none;
-
-            transition: color 0.3s;
-
-        }
-
-       
-
-        a:hover {
-
-            color: #FFFFFF;
-
-            text-decoration: underline;
-
-        }
-
-       
-
-        .container {
-
-            max-width: 800px;
-
-            margin: 0 auto;
-
-            padding: 20px;
-
-        }
-
-       
-
-        img {
-
-            max-width: 100%;
-
-            height: auto;
-
-        }
-
-       
-
-        h2 {
-
-            margin-top: 10px;
-
-            font-size: 28px;
-
-        }
-
-       
-
-        p {
-
-            margin: 10px 0;
-
-            font-size: 16px;
-
-            line-height: 1.5;
-
-        }
-
-       
-
-        .lore {
-
-            text-align: left;
-
-            padding: 20px;
-
-            background-color: #1E2223;
-
-            border-radius: 10px;
-
-        }
-
-       
-
-        .characters {
-
-            text-align: left;
-
-            padding: 20px;
-
-            background-color: #1E2223;
-
-            border-radius: 10px;
-
-        }
-
-       
-
-        .character-title {
-
-            font-size: 24px;
-
-            margin-top: 20px;
-
-        }
-
-       
-
-        .download-link {
-
-            display: block;
-
-            margin-top: 20px;
-
-            font-size: 18px;
-
-            color: #E1E1E1;
-
-        }
-
-       
-
-        .character-description {
-
-            display: flex;
-
-            align-items: center;
-
-            justify-content: space-between;
-
-        }
-
-       
-
-        .character-description p {
-
-            flex: 1;
-
-        }
-
-       
-
-        .character-image {
-
-            max-width: 300px;
-
-            margin-left: 20px;
-
-        }
-
-       
-
-        a {
-
-            text-align: center;
-
-        }
-
-    </style>
-
-</head>
-
-<!--EndFragment-->
-
-![Undertale Banner](undertalebanner.png)
+![](undertalebanner.png)
 
 ## Welcome to the Undertale Wiki
 
@@ -262,6 +64,103 @@ Overall, Sans is a unique and memorable character in "Undertale" due to his blen
 She's Toriel...
 
 ```
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Undertale Wiki</title>
+    <link rel="icon" type="image/png" href="undertale.png">
+    <style>
+        body {
+            background-color: #0F1112;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #E1E1E1;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        
+        a:link,
+        a:visited {
+            color: #D8D8D8;
+            background-color: transparent;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        
+        a:hover {
+            color: #FFFFFF;
+            text-decoration: underline;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        
+        h2 {
+            margin-top: 10px;
+            font-size: 28px;
+        }
+        
+        p {
+            margin: 10px 0;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        
+        .lore {
+            text-align: left;
+            padding: 20px;
+            background-color: #1E2223;
+            border-radius: 10px;
+        }
+        
+        .characters {
+            text-align: left;
+            padding: 20px;
+            background-color: #1E2223;
+            border-radius: 10px;
+        }
+        
+        .character-title {
+            font-size: 24px;
+            margin-top: 20px;
+        }
+        
+        .download-link {
+            display: block;
+            margin-top: 20px;
+            font-size: 18px;
+            color: #E1E1E1;
+        }
+        
+        .character-description {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .character-description p {
+            flex: 1;
+        }
+        
+        .character-image {
+            max-width: 300px;
+            margin-left: 20px;
+        }
+        
+        a {
+            text-align: center;
+        }
+    </style>
+</head>
 
 ```
 
