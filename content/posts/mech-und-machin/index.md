@@ -6,13 +6,11 @@ pinned = false
 tags = ["asdas", "asdasd"]
 description = "adasdasd\n"
 +++
-<!DOCTYPE html>
 <html>
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Undertale Wiki</title>
     <link rel="icon" type="image/png" href="undertale.png">
     <style>
         body {
@@ -182,37 +180,40 @@ Overall, Sans is a unique and memorable character in "Undertale" due to his blen
                     <br>
                     <a href="https://undertale.fandom.com/wiki/Toriel"><h3>Toriel</h3></a>
                     <p>She's Toriel...</p>
-                    
-                    <h4>Physical Appearance:</h4>
-                    Toriel is a goat-like monster with a warm and motherly appearance. She has white fur, a pair of curved horns, and wears a purple robe that covers most of her body. Her eyes are kind and gentle, reflecting her caring and protective nature. She also wears glasses, which is a unique characteristic among the monsters in the game.
-                    
-                    <h4>Personality:</h4>
-                    Toriel is known for her motherly and nurturing personality. She is incredibly kind-hearted and cares deeply for others, especially for the safety and well-being of the protagonist. Due to her role as the "caretaker of the Ruins," she takes it upon herself to protect and guide any human who falls into the Underground, including the player character.
-                    
-                    <h4>Role in the Game:</h4>
-                    At the beginning of the game, Toriel acts as a mentor and guide for the player, teaching them about game mechanics, puzzles, and the world of monsters. She lives in the Ruins, a labyrinthine area beneath the surface, and offers the player a safe place to stay. Toriel's initial reluctance to let the player leave her care and venture further into the Underground sets up an early conflict in the game's narrative.
-                    
-                    Depending on the player's choices, interactions with Toriel can lead to different outcomes. Players can either choose to follow her advice and stay in the Ruins or challenge her and continue on their journey. This choice contributes to the branching paths and multiple endings that define "Undertale."
-                    
-                    <h4>Backstory and Lore:</h4>
-                    Toriel's backstory is gradually revealed through dialogue and exploration. She was once the queen of the monsters and lived on the surface. However, following a war between humans and monsters, she retreated to the Underground, hoping to protect her kind from the dangers above. Her backstory and her reasons for caring for the protagonist are explored more deeply in the game's Pacifist and Neutral routes.
-                    
-                    <h4>Importance to the Story:</h4>
-                    Toriel's character embodies themes of compassion, family, and choice. Her interactions with the player character highlight the game's central moral dilemma: whether to approach challenges with violence or find peaceful solutions. The relationships players form with characters like Toriel contribute to the emotional impact of the story's various endings.
-                    
-                    In summary, Toriel is a maternal and compassionate character in "Undertale," representing themes of love, protection, and the consequences of one's choices. Her role in the game is pivotal in introducing players to its unique mechanics and setting the tone for their interactions with other characters.
 
-                </div>
-                <img class="character-image" src="toriel.webp" alt="Toriel">
+```
+                <h4>Physical Appearance:</h4>
+                Toriel is a goat-like monster with a warm and motherly appearance. She has white fur, a pair of curved horns, and wears a purple robe that covers most of her body. Her eyes are kind and gentle, reflecting her caring and protective nature. She also wears glasses, which is a unique characteristic among the monsters in the game.
+                
+                <h4>Personality:</h4>
+                Toriel is known for her motherly and nurturing personality. She is incredibly kind-hearted and cares deeply for others, especially for the safety and well-being of the protagonist. Due to her role as the "caretaker of the Ruins," she takes it upon herself to protect and guide any human who falls into the Underground, including the player character.
+                
+                <h4>Role in the Game:</h4>
+                At the beginning of the game, Toriel acts as a mentor and guide for the player, teaching them about game mechanics, puzzles, and the world of monsters. She lives in the Ruins, a labyrinthine area beneath the surface, and offers the player a safe place to stay. Toriel's initial reluctance to let the player leave her care and venture further into the Underground sets up an early conflict in the game's narrative.
+                
+                Depending on the player's choices, interactions with Toriel can lead to different outcomes. Players can either choose to follow her advice and stay in the Ruins or challenge her and continue on their journey. This choice contributes to the branching paths and multiple endings that define "Undertale."
+                
+                <h4>Backstory and Lore:</h4>
+                Toriel's backstory is gradually revealed through dialogue and exploration. She was once the queen of the monsters and lived on the surface. However, following a war between humans and monsters, she retreated to the Underground, hoping to protect her kind from the dangers above. Her backstory and her reasons for caring for the protagonist are explored more deeply in the game's Pacifist and Neutral routes.
+                
+                <h4>Importance to the Story:</h4>
+                Toriel's character embodies themes of compassion, family, and choice. Her interactions with the player character highlight the game's central moral dilemma: whether to approach challenges with violence or find peaceful solutions. The relationships players form with characters like Toriel contribute to the emotional impact of the story's various endings.
+                
+                In summary, Toriel is a maternal and compassionate character in "Undertale," representing themes of love, protection, and the consequences of one's choices. Her role in the game is pivotal in introducing players to its unique mechanics and setting the tone for their interactions with other characters.
+
             </div>
-            <div class="character-description">
-                <div class="character-info">
-                    <br>
-                    <br>
-                    <a href="https://undertale.fandom.com/wiki/Asgore_Dreemurr"><h3>Asgore</h3></a>
-                    <p>He's Asgore...</p>
-                    
-                    <h4>Physical Appearance:</h4>
+            <img class="character-image" src="toriel.webp" alt="Toriel">
+        </div>
+        <div class="character-description">
+            <div class="character-info">
+                <br>
+                <br>
+                <a href="https://undertale.fandom.com/wiki/Asgore_Dreemurr"><h3>Asgore</h3></a>
+                <p>He's Asgore...</p>
+                
+                <h4>Physical Appearance:</h4>
+```
+
 Asgore is a large, anthropomorphic goat monster with a regal and imposing presence. He has white fur, curved horns, and a beard, which give him a dignified appearance. Asgore wears a red robe with a golden royal emblem on the front and a crown atop his head. His eyes are somber, reflecting the weight of his responsibilities and past decisions.
 
 <h4>Personality:</h4>
@@ -234,11 +235,14 @@ Overall, Asgore is a complex and multi-dimensional character in "Undertale." His
                 <img class="character-image" src="Asgore.webp" alt="Asgore">
             </div>
 
-        </div>
+```
     </div>
-    <a href="download.html"> Download Undertale</a>
-    <br>
-    <br>
+</div>
+<a href="download.html"> Download Undertale</a>
+<br>
+<br>
+```
+
 </body>
 
 </html>
