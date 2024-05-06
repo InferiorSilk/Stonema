@@ -3,8 +3,205 @@ title = "UnderTale Test"
 date = "2024-05-06"
 draft = false
 pinned = false
+image = ""
 +++
 <!--StartFragment-->
+
+
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Undertale Wiki</title>
+
+    <link rel="icon" type="image/png" href="undertale.png">
+
+    <style>
+
+        body {
+
+            background-color: #0F1112;
+
+            font-family: Arial, Helvetica, sans-serif;
+
+            color: #E1E1E1;
+
+            text-align: center;
+
+            margin: 0;
+
+            padding: 0;
+
+        }
+
+       
+
+        a:link,
+
+        a:visited {
+
+            color: #D8D8D8;
+
+            background-color: transparent;
+
+            text-decoration: none;
+
+            transition: color 0.3s;
+
+        }
+
+       
+
+        a:hover {
+
+            color: #FFFFFF;
+
+            text-decoration: underline;
+
+        }
+
+       
+
+        .container {
+
+            max-width: 800px;
+
+            margin: 0 auto;
+
+            padding: 20px;
+
+        }
+
+       
+
+        img {
+
+            max-width: 100%;
+
+            height: auto;
+
+        }
+
+       
+
+        h2 {
+
+            margin-top: 10px;
+
+            font-size: 28px;
+
+        }
+
+       
+
+        p {
+
+            margin: 10px 0;
+
+            font-size: 16px;
+
+            line-height: 1.5;
+
+        }
+
+       
+
+        .lore {
+
+            text-align: left;
+
+            padding: 20px;
+
+            background-color: #1E2223;
+
+            border-radius: 10px;
+
+        }
+
+       
+
+        .characters {
+
+            text-align: left;
+
+            padding: 20px;
+
+            background-color: #1E2223;
+
+            border-radius: 10px;
+
+        }
+
+       
+
+        .character-title {
+
+            font-size: 24px;
+
+            margin-top: 20px;
+
+        }
+
+       
+
+        .download-link {
+
+            display: block;
+
+            margin-top: 20px;
+
+            font-size: 18px;
+
+            color: #E1E1E1;
+
+        }
+
+       
+
+        .character-description {
+
+            display: flex;
+
+            align-items: center;
+
+            justify-content: space-between;
+
+        }
+
+       
+
+        .character-description p {
+
+            flex: 1;
+
+        }
+
+       
+
+        .character-image {
+
+            max-width: 300px;
+
+            margin-left: 20px;
+
+        }
+
+       
+
+        a {
+
+            text-align: center;
+
+        }
+
+    </style>
+
+</head>
+
+<!--EndFragment-->
 
 ![Undertale Banner](undertalebanner.png)
 
@@ -12,13 +209,9 @@ pinned = false
 
 Explore the world of [Undertale](https://undertale.com/) and its captivating lore.
 
-
-
 Long ago, a war between humans and monsters led to the monsters being sealed underground by a powerful spell. The game follows a human child who falls into this underground realm and navigates through a world of choices, where interactions with monsters determine the outcome. The narrative explores morality and consequences.
 
 ## Characters
-
-
 
 ### [Frisk](https://undertale.fandom.com/wiki/Frisk)
 
@@ -37,8 +230,6 @@ In the game's narrative, Frisk is a human who falls into the Underground, a worl
 Since Frisk is a silent protagonist, their personality is largely left up to the player's interpretation. However, due to their actions being driven by the player's choices, Frisk can be seen as compassionate and empathetic if the player chooses to take the pacifist route, sparing monsters and seeking peaceful solutions. Alternatively, if the player chooses a more aggressive route, Frisk's personality might seem more determined and assertive. Interactions: Throughout the game, Frisk interacts with various characters, forming relationships with them based on the player's choices. The most notable relationships are with characters like Toriel, Sans, Papyrus, Undyne, Alphys, and Asriel, among others. The player's choices ultimately determine the kind of friendships and connections Frisk develops in the Underground. Frisk's interactions also heavily impact the ending of the game, as their choices determine whether they achieve a pacifist, neutral, or genocide ending. Importance to the Story: Frisk's presence in the game serves as a vessel for the player to experience the world of Undertale and its unique mechanics. Their choices and interactions drive the story forward, affecting the outcomes of different events and determining the ultimate fate of the characters in the game. Overall, Frisk is intentionally designed to be a blank canvas onto which players can project their own emotions, morals, and choices, making their journey through the Underground a highly personal and immersive experience.
 
 ![Frisk](frisk.webp)
-
-
 
 ### [Sans](https://undertale.fandom.com/wiki/Sans)
 
@@ -65,8 +256,6 @@ Overall, Sans is a unique and memorable character in "Undertale" due to his blen
 ![Sans](Sans.webp)
 
 ### [Sans Fight](https://jcw87.github.io/c2-sans-fight/)
-
-
 
 ### [Toriel](https://undertale.fandom.com/wiki/Toriel)
 
