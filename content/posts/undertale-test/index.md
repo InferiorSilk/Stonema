@@ -5,9 +5,9 @@ draft = false
 pinned = false
 image = ""
 +++
+  Undertale Wiki  body { background-color: #0F1112; font-family: Arial, Helvetica, sans-serif; color: #E1E1E1; text-align: center; margin: 0; padding: 0; } a:link, a:visited { color: #D8D8D8; background-color: transparent; text-decoration: none; transition: color 0.3s; } a:hover { color: #FFFFFF; text-decoration: underline; } .container { max-width: 800px; margin: 0 auto; padding: 20px; } img { max-width: 100%; height: auto; } h2 { margin-top: 10px; font-size: 28px; } p { margin: 10px 0; font-size: 16px; line-height: 1.5; } .lore { text-align: left; padding: 20px; background-color: #1E2223; border-radius: 10px; } .characters { text-align: left; padding: 20px; background-color: #1E2223; border-radius: 10px; } .character-title { font-size: 24px; margin-top: 20px; } .download-link { display: block; margin-top: 20px; font-size: 18px; color: #E1E1E1; } .character-description { display: flex; align-items: center; justify-content: space-between; } .character-description p { flex: 1; } .character-image { max-width: 300px; margin-left: 20px; } a { text-align: center; }
 
-
-![](undertalebanner.png)
+![Undertale Banner](undertalebanner.png)
 
 ## Welcome to the Undertale Wiki
 
@@ -17,7 +17,11 @@ Long ago, a war between humans and monsters led to the monsters being sealed und
 
 ## Characters
 
-### [Frisk](https://undertale.fandom.com/wiki/Frisk)
+[
+
+### Frisk
+
+](https://undertale.fandom.com/wiki/Frisk)
 
 The Main Character
 
@@ -35,7 +39,11 @@ Since Frisk is a silent protagonist, their personality is largely left up to the
 
 ![Frisk](frisk.webp)
 
-### [Sans](https://undertale.fandom.com/wiki/Sans)
+[
+
+### Sans
+
+](https://undertale.fandom.com/wiki/Sans)
 
 He's a Skeleton
 
@@ -47,23 +55,59 @@ Sans is known for his relaxed and easygoing demeanor, often cracking puns and jo
 
 #### Role in the Game:
 
-Sans is one of the characters the player encounters in the underground world of monsters. He lives in Snowdin, a snowy area filled with puzzles and quirky characters. Sans and his brother Papyrus are guards at the entrance to Snowdin, although Sans rarely takes his duties seriously. He often appears to offer the player cryptic advice and comic relief.
-
-As the game progresses, it becomes clear that Sans is more aware of the player's actions and the time loops within the game's universe. He plays a crucial role in certain story routes, and his true abilities are revealed during battles, where he exhibits powerful attacks that make him a challenging opponent.
+Sans is one of the characters the player encounters in the underground world of monsters. He lives in Snowdin, a snowy area filled with puzzles and quirky characters. Sans and his brother Papyrus are guards at the entrance to Snowdin, although Sans rarely takes his duties seriously. He often appears to offer the player cryptic advice and comic relief. As the game progresses, it becomes clear that Sans is more aware of the player's actions and the time loops within the game's universe. He plays a crucial role in certain story routes, and his true abilities are revealed during battles, where he exhibits powerful attacks that make him a challenging opponent.
 
 #### Backstory and Lore:
 
-Sans' backstory is only hinted at in the game, but it's implied that he and his brother Papyrus were scientists who conducted research related to time and space manipulation. This is why Sans seems to have some awareness of the game's mechanics and the player's actions.
+Sans' backstory is only hinted at in the game, but it's implied that he and his brother Papyrus were scientists who conducted research related to time and space manipulation. This is why Sans seems to have some awareness of the game's mechanics and the player's actions. Overall, Sans is a unique and memorable character in "Undertale" due to his blend of humor, depth, and mystery. His impact on the game's story and his interactions with the player make him a fan-favorite character.
 
-Overall, Sans is a unique and memorable character in "Undertale" due to his blend of humor, depth, and mystery. His impact on the game's story and his interactions with the player make him a fan-favorite character.
+![Sans](sans.webp)
 
-![Sans](Sans.webp)
+[
 
-### [Sans Fight](https://jcw87.github.io/c2-sans-fight/)
+### Sans Fight
 
-### [Toriel](https://undertale.fandom.com/wiki/Toriel)
+](https://jcw87.github.io/c2-sans-fight/)
+
+[
+
+### Toriel
+
+](https://undertale.fandom.com/wiki/Toriel)
 
 She's Toriel...
+
+#### Physical Appearance:
+
+Toriel is a goat-like monster with a warm and motherly appearance. She has white fur, a pair of curved horns, and wears a purple robe that covers most of her body. Her eyes are kind and gentle, reflecting her caring and protective nature. She also wears glasses, which is a unique characteristic among the monsters in the game.
+
+#### Personality:
+
+Toriel is known for her motherly and nurturing personality. She is incredibly kind-hearted and cares deeply for others, especially for the safety and well-being of the protagonist. Due to her role as the "caretaker of the Ruins," she takes it upon herself to protect and guide any human who falls into the Underground, including the player character.
+
+#### Role in the Game:
+
+At the beginning of the game, Toriel acts as a mentor and guide for the player, teaching them about game mechanics, puzzles, and the world of monsters. She lives in the Ruins, a labyrinthine area beneath the surface, and offers the player a safe place to stay. Toriel's initial reluctance to let the player leave her care and venture further into the Underground sets up an early conflict in the game's narrative. Depending on the player's choices, interactions with Toriel can lead to different outcomes. Players can either choose to follow her advice and stay in the Ruins or challenge her and continue on their journey. This choice contributes to the branching paths and multiple endings that define "Undertale."
+
+#### Backstory and Lore:
+
+Toriel's backstory is gradually revealed through dialogue and exploration. She was once the queen of the monsters and lived on the surface. However, following a war between humans and monsters, she retreated to the Underground, hoping to protect her kind from the dangers above. Her backstory and her reasons for caring for the protagonist are explored more deeply in the game's Pacifist and Neutral routes.
+
+#### Importance to the Story:
+
+Toriel's character embodies themes of compassion, family, and choice. Her interactions with the player character highlight the game's central moral dilemma: whether to approach challenges with violence or find peaceful solutions. The relationships players form with characters like Toriel contribute to the emotional impact of the story's various endings. In summary, Toriel is a maternal and compassionate character in "Undertale," representing themes of love, protection, and the consequences of one's choices. Her role in the game is pivotal in introducing players to its unique mechanics and setting the tone for their interactions with other characters.
+
+![Toriel](toriel.webp)
+
+[
+
+### Asgore
+
+](https://undertale.fandom.com/wiki/Asgore_Dreemurr)
+
+He's Asgore...
+
+#### Physical Appearance:
 
 Asgore is a large, anthropomorphic goat monster with a regal and imposing presence. He has white fur, curved horns, and a beard, which give him a dignified appearance. Asgore wears a red robe with a golden royal emblem on the front and a crown atop his head. His eyes are somber, reflecting the weight of his responsibilities and past decisions.
 
@@ -81,16 +125,8 @@ Asgore's backstory is closely tied to the history of the monsters and their rela
 
 #### Importance to the Story:
 
-Asgore's character embodies themes of forgiveness, redemption, and the cycle of violence. Players are presented with a moral dilemma when facing Asgore: whether to continue the cycle of violence by defeating him or to find a way to spare him and seek a peaceful resolution. Asgore's actions and motivations are pivotal in shaping the game's different routes and the ultimate fate of the characters.
+Asgore's character embodies themes of forgiveness, redemption, and the cycle of violence. Players are presented with a moral dilemma when facing Asgore: whether to continue the cycle of violence by defeating him or to find a way to spare him and seek a peaceful resolution. Asgore's actions and motivations are pivotal in shaping the game's different routes and the ultimate fate of the characters. In the Pacifist route, Asgore's interactions with the player and their decisions to spare him contribute to the game's message of hope and reconciliation. His character arc underscores the importance of understanding, empathy, and the power of choices. Overall, Asgore is a complex and multi-dimensional character in "Undertale." His presence in the game challenges players to consider the consequences of their actions and the potential for healing and growth, even in the face of past mistakes and tragedies.
 
-In the Pacifist route, Asgore's interactions with the player and their decisions to spare him contribute to the game's message of hope and reconciliation. His character arc underscores the importance of understanding, empathy, and the power of choices.
+![Asgore](asgore.webp)
 
-Overall, Asgore is a complex and multi-dimensional character in "Undertale." His presence in the game challenges players to consider the consequences of their actions and the potential for healing and growth, even in the face of past mistakes and tragedies.
-
-![Asgore](Asgore.webp)
-
-```
-
-```
-
-<!--EndFragment-->
+[Download Undertale](download.html)
