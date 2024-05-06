@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
-color = "#5a4ae3"
+icon = "/media/thelaststonema.jpg"
+logo = "/media/thelaststonema.jpg"
+image = "/media/thelaststonemabanner.jpg"
+color = "#41929C"
 +++
