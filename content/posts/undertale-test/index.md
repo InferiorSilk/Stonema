@@ -17,15 +17,13 @@ Long ago, a war between humans and monsters led to the monsters being sealed und
 
 ## Characters
 
-
-
 ### Frisk
 
-![https://undertale.fandom.com/wiki/Frisk](frisk.webp "Frisk")
+![#### <https://undertale.fandom.com/wiki/Frisk>](frisk.webp "Frisk")
 
 The Main Character
 
-#### Physical Appearance:
+#### Physical Appearance:[](https://undertale.fandom.com/wiki/Frisk)
 
 Frisk's appearance is simple and deliberately vague. They have short brown hair and wear a striped, horizontally-striped light blue-and-white shirt with brown pants and shoes. Frisk's design is intentionally plain to allow players to project their own interpretations onto the character.
 
@@ -36,8 +34,6 @@ In the game's narrative, Frisk is a human who falls into the Underground, a worl
 #### Personality:
 
 Since Frisk is a silent protagonist, their personality is largely left up to the player's interpretation. However, due to their actions being driven by the player's choices, Frisk can be seen as compassionate and empathetic if the player chooses to take the pacifist route, sparing monsters and seeking peaceful solutions. Alternatively, if the player chooses a more aggressive route, Frisk's personality might seem more determined and assertive. Interactions: Throughout the game, Frisk interacts with various characters, forming relationships with them based on the player's choices. The most notable relationships are with characters like Toriel, Sans, Papyrus, Undyne, Alphys, and Asriel, among others. The player's choices ultimately determine the kind of friendships and connections Frisk develops in the Underground. Frisk's interactions also heavily impact the ending of the game, as their choices determine whether they achieve a pacifist, neutral, or genocide ending. Importance to the Story: Frisk's presence in the game serves as a vessel for the player to experience the world of Undertale and its unique mechanics. Their choices and interactions drive the story forward, affecting the outcomes of different events and determining the ultimate fate of the characters in the game. Overall, Frisk is intentionally designed to be a blank canvas onto which players can project their own emotions, morals, and choices, making their journey through the Underground a highly personal and immersive experience.
-
-
 
 ### Sans
 
@@ -59,13 +55,9 @@ Sans is one of the characters the player encounters in the underground world of 
 
 Sans' backstory is only hinted at in the game, but it's implied that he and his brother Papyrus were scientists who conducted research related to time and space manipulation. This is why Sans seems to have some awareness of the game's mechanics and the player's actions. Overall, Sans is a unique and memorable character in "Undertale" due to his blend of humor, depth, and mystery. His impact on the game's story and his interactions with the player make him a fan-favorite character.
 
-
-
 ### Sans Fight
 
 <https://jcw87.github.io/c2-sans-fight/>
-
-
 
 ### Toriel
 
@@ -92,8 +84,6 @@ Toriel's backstory is gradually revealed through dialogue and exploration. She w
 #### Importance to the Story:
 
 Toriel's character embodies themes of compassion, family, and choice. Her interactions with the player character highlight the game's central moral dilemma: whether to approach challenges with violence or find peaceful solutions. The relationships players form with characters like Toriel contribute to the emotional impact of the story's various endings. In summary, Toriel is a maternal and compassionate character in "Undertale," representing themes of love, protection, and the consequences of one's choices. Her role in the game is pivotal in introducing players to its unique mechanics and setting the tone for their interactions with other characters.
-
-
 
 ### Asgore
 
