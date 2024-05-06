@@ -58,9 +58,11 @@ Letztendlich liegt die Macht nicht in den Maschinen selbst, sondern in der Art u
 
 ## Quellenverzeichnis
 
-* Paksy Plackis-Cheng, Dr. Tejo Chalasani, Sabrina Palme, et al. (10. Dezember, 2023). Ensuring Human Intelligence in AI Hiring Tools. Zugriff am 03. März 2024, von 
-  https://findhr.eu/wp-content/uploads/2024/01/FINDHR-Expert-Report_by-Paksy-Plackis-Cheng-et-al.pdf
+* Paksy Plackis-Cheng, Dr. Tejo Chalasani, Sabrina Palme, et al. (10. Dezember, 2023). Ensuring Human Intelligence in AI Hiring Tools. Zugriff am 03. März 2024, von [https://findhr.eu/wp-content/uploads/2024/01/FINDHR-Expert-Report_by-Paksy-Plackis-Cheng-et-al.pdf](<* https://findhr.eu/wp-content/uploads/2024/01/FINDHR-Expert-Report_by-Paksy-Plackis-Cheng-et-al.pdf>)
+
+
 * Algorithmwatch.ch. (Datum unbekannt). Diskriminierung 2.0: Wie Rassismus in Algorithmen weiterlebt. Zugriff am 03. März 2024, von 
-  https://algorithmwatch.ch/de/tag-gegen-rassismus-21-marz/
-* BCG. (27. November, 2017). Prognose zur Anzahl der potenziell gefährdeten Arbeitsplätze durch die Automatisierung in Deutschland nach Berufen bis zum Jahr 2025* (in Millionen) \[Graph]. In Statista. Zugriff am 05. Mai 2024, von https://de.statista.com/statistik/daten/studie/814326/umfrage/prognose-gefaehrdete-arbeitsplaetze-durch-die-automatisierung-in-deutschland/
-* Titel
+  [https://algorithmwatch.ch/de/tag-gegen-rassismus-21-marz/](<* https://algorithmwatch.ch/de/tag-gegen-rassismus-21-marz/>)
+
+
+* BCG. (27. November, 2017). Prognose zur Anzahl der potenziell gefährdeten Arbeitsplätze durch die Automatisierung in Deutschland nach Berufen bis zum Jahr 2025* (in Millionen) \[Graph]. In Statista. Zugriff am 05. Mai 2024, von <https://de.statista.com/statistik/daten/studie/814326/umfrage/prognose-gefaehrdete-arbeitsplaetze-durch-die-automatisierung-in-deutschland/>
