@@ -3,9 +3,6 @@
 {{ $settingsNavigation := .Site.GetPage "/settings/navigation" -}}
 <nav class="site-nav navbar navbar-expand-md fixed-top autohide">
   <div class="container">
-    <a class="navbar-brand" href="/">
-      <img src="{{ $settingsDesign.Params.logo | default "/img/default-logo.png" }}" alt="{{ $settingsGeneral.Title }}">
-    </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
