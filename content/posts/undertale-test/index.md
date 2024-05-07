@@ -7,9 +7,9 @@ tags = ["Undertale"]
 image = "header.jpg"
 description = "An Undertale Wiki"
 +++
-![](undertalebanner.png)
+![](untitled.png)
 
-## Welcome to the Undertale Wikipage
+## Welcome to the Undertale Wiki
 
 Explore the world of [Undertale](https://undertale.com/) and its captivating lore.
 
