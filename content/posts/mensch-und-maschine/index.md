@@ -1,6 +1,6 @@
 +++
 title = "Mensch und Maschine"
-date = "2024-05-06"
+date = "2024-05-08"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
