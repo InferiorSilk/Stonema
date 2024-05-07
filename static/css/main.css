@@ -140,7 +140,7 @@ hr {
 }
 
 .site-related .site-related-inner {
-  background-color: rgba(255, 255, 255, 0.9); /* Make main color brighter. */
+  background-color: rgb(77 77 77); /* Make main color brighter. */
   padding-top: 2rem;
   padding-bottom: 3rem;
 }
