@@ -525,9 +525,9 @@ hr {
 
 /* BOX */
 .article-content .alert {
-  color: rgba(0, 0, 0, 0.8);
-  background-color: var(--bs-gray-300);
-  border-color: var(--bs-gray-400);
+  color: rgb(255 255 255);
+  background-color: #9ca5b1;
+  border-color: #959595;
 }
 
 .article-content .alert,
