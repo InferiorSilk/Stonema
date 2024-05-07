@@ -9,7 +9,7 @@ description = "An Undertale Wiki"
 +++
 ![](undertalebanner.png)
 
-## Welcome to the Undertale Wiki
+## Welcome to the Undertale Wikipage
 
 Explore the world of [Undertale](https://undertale.com/) and its captivating lore.
 
