@@ -4,7 +4,7 @@ date = "2024-05-06"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
-image = "bild1.jpg"
+image = "bild1-transformed.jpeg"
 description = "Eine Reportage über das Thema Algorithmen von Alec und Aaron"
 footnotes = ""
 +++
