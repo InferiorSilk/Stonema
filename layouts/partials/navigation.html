@@ -10,7 +10,11 @@
     <div class="collapse navbar-collapse" id="main-navigation">
     <a class="nav-link " href="/">Stonema</a>
     <input type="checkbox" id="theme-switch">
-      
+    <label class="theme-switch">
+      <input type="checkbox" id="theme-switch">
+      <span class="slider"></span>
+    </label>  
+    <script src="theme-switch.js"></script>
       <!-- Begin Menu -->
       <ul class="navbar-nav ms-auto">
         {{ $currentUrl := .RelPermalink }}
