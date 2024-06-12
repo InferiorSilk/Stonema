@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Alec Stonema"
-image = ""
+name = "Aaron Wulf"
+image = "car.jpg"
 url = ""
 +++
