@@ -1,5 +1,5 @@
 +++
-title = "Mensch und Maschine"
+title = "Mensch und Maschine: Wie viel Macht haben wir noch?"
 date = "2024-05-08"
 draft = false
 pinned = false
@@ -8,7 +8,6 @@ image = "bild1-transformed.jpeg"
 description = "Eine Reportage über das Thema Algorithmen von Alec und Aaron"
 footnotes = ""
 +++
-# Wie viel Macht haben wir noch?
 
 {{<lead>}}
 Algorithmen und künstliche Intelligenz werden immer prominenter, doch wie abhängig sind wir wirklich?
