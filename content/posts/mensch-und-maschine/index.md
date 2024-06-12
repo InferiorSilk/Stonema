@@ -15,15 +15,11 @@ Algorithmen und künstliche Intelligenz werden immer prominenter, doch wie abhä
 {{</lead>}}   
 ###### Text: Alec und Aaron
 
-
-<img src="bild1-transformed.jpeg" alt="Der Kontakt zwischen Mensch und Maschine wird immer häufiger und direkter." id="titelbild">
-
-
+> ![Der Kontakt zwischen Mensch und Maschine wird immer häufiger und direkter.](bild1-transformed.jpeg)
 
 In einer Pause zwischen zwei Lektionen Einführung Wirtschaft und Recht (EWR) sieht Nicolas Kiechler, Fachlehrperson für Wirtschaft und Recht am Gymnasium Kirchenfeld, wie ein Schüler mithilfe von Copilot, der künstlichen Intelligenz von Microsoft, eine ganze HTML-Datei in eine einzige Zeile umschreibt. Obwohl er einer der jüngsten Lehrkräfte an dem gesamten Gymnasium ist, kam er in seinem Studium nicht in Kontakt mit ähnlichen Technologien: «Es war nicht so verbreitet, wie es heute der Fall ist.» Schüler heutzutage haben mehr Freiheit: «Verschiedenste Male wird das benutzt», sagt Kiechler über ChatGPT. Neugierde ist doch normal, oder? Aus diesem Grund treffen wir uns einige Wochen später online zum Interview: ChatGPT in der Schule, sollte das erlaubt sein? Der Gymnasiallehrer ist der Meinung, die Benutzung dieser Technologie sollte in Bildungsinstitutionen sogar gefördert werden: «Es ist ein Hilfsmittel, das den Schülerinnen und Schülern zur Verfügung steht», so Kiechler.
 
-
-<img src="portrait.jpg" alt="Nicolas Kiechler, Fachlehrperson am Gymnasium Kirchenfeld" id="titelbild">
+![Nicolas Kiechler, Fachlehrperson am Gymnasium Kirchenfeld](portrait.jpg)
 
 Auf die Frage, ob diese Werkzeuge ohne Einschränkungen zur Verfügung gestellt werden sollten, weiss er keine klare Antwort: «Wenn ich bei ChatGPT zum Beispiel mir irgendetwas generieren lasse, muss ich einfach in der Lage sein zu urteilen: Ist das jetzt etwas Gutes oder nicht?» Dafür müsse man die Materie auch zu einem gewissen Grad verstehen.
 
