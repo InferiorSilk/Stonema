@@ -1,10 +1,10 @@
 +++
-title = "Stonema"
+title = "Aaron Wulf"
 draft = false
-image = "croppedthelaststonemabanner.jpg"
+image = "car.jpg"
 description = "Contact and About me"
-footnotes = "[stonema.music@hotmail.com](stonema.music@hotmail.com)"
+footnotes = "[wulf.aaron@outlook.com](wulf.aaron@outlook.com)"
 +++
-![](croppedthelaststonemabanner.jpg)
+![](car.jpg)
 
 This site was created using the template of [lilo.blog](lilo.blog)
