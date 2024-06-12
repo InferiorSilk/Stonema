@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Aaron Wulf"
-description = "Aaron"
+description = ""
 footerLeft = "[lilo.blog](lilo.blog)"
 footerRight = ""
 +++
