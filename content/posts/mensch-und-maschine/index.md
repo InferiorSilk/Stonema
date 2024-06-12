@@ -15,8 +15,8 @@ Algorithmen und künstliche Intelligenz werden immer prominenter, doch wie abhä
 {{</lead>}}   
 ###### Text: Alec und Aaron
 
-<figure>
-<img src="bild1-transformed.jpeg" alt="Der Kontakt zwischen Mensch und Maschine wird immer häufiger und direkter." id="titelbild">
+<figure align="center">
+<img src="bild1-transformed.jpeg" alt="Der Kontakt zwischen Mensch und Maschine wird immer häufiger und direkter." >
 <figcaption>Der Kontakt zwischen Mensch und Maschine wird immer häufiger und direkter.</figcaption>
 </figure>
 
