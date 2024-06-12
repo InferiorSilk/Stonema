@@ -15,15 +15,18 @@ Algorithmen und künstliche Intelligenz werden immer prominenter, doch wie abhä
 {{</lead>}}   
 ###### Text: Alec und Aaron
 
-<figure align="center">
-<img src="bild1-transformed.jpeg" alt="Der Kontakt zwischen Mensch und Maschine wird immer häufiger und direkter." >
+<p align="center">
+<img src="bild1-transformed.jpeg">
 <figcaption>Der Kontakt zwischen Mensch und Maschine wird immer häufiger und direkter.</figcaption>
-</figure>
+</p>
 
 
 In einer Pause zwischen zwei Lektionen Einführung Wirtschaft und Recht (EWR) sieht Nicolas Kiechler, Fachlehrperson für Wirtschaft und Recht am Gymnasium Kirchenfeld, wie ein Schüler mithilfe von Copilot, der künstlichen Intelligenz von Microsoft, eine ganze HTML-Datei in eine einzige Zeile umschreibt. Obwohl er einer der jüngsten Lehrkräfte an dem gesamten Gymnasium ist, kam er in seinem Studium nicht in Kontakt mit ähnlichen Technologien: «Es war nicht so verbreitet, wie es heute der Fall ist.» Schüler heutzutage haben mehr Freiheit: «Verschiedenste Male wird das benutzt», sagt Kiechler über ChatGPT. Neugierde ist doch normal, oder? Aus diesem Grund treffen wir uns einige Wochen später online zum Interview: ChatGPT in der Schule, sollte das erlaubt sein? Der Gymnasiallehrer ist der Meinung, die Benutzung dieser Technologie sollte in Bildungsinstitutionen sogar gefördert werden: «Es ist ein Hilfsmittel, das den Schülerinnen und Schülern zur Verfügung steht», so Kiechler.
 
-![Nicolas Kiechler, Fachlehrperson am Gymnasium Kirchenfeld](portrait.jpg)
+<p align="center">
+<img src="portrait.jpg" alt="Nicolas Kiechler" style="width:50%">
+<figcaption>Nicolas Kiechler, Fachlehrperson am Gymnasium Kirchenfeld</figcaption>
+</p>
 
 Auf die Frage, ob diese Werkzeuge ohne Einschränkungen zur Verfügung gestellt werden sollten, weiss er keine klare Antwort: «Wenn ich bei ChatGPT zum Beispiel mir irgendetwas generieren lasse, muss ich einfach in der Lage sein zu urteilen: Ist das jetzt etwas Gutes oder nicht?» Dafür müsse man die Materie auch zu einem gewissen Grad verstehen.
 
@@ -49,7 +52,10 @@ ATS oder Applicant Tracking Systems, auf Deutsch Bewerbermanagementsystem, sind 
 
 Als komfortables und unkompliziertes Hilfsmittel ist KI gerne die erste Anlaufstelle bei Problemen.  Entwickeln wir so eine Abhängigkeit? Eindeutig, findet Jean-Marc	 Leutenegger, Informatikleiter der BLS: «Es wird so sein, wie es ist, und die Abhängigkeit ist da». Bereits heutzutage finde man diese: Die Bern-Lötschberg-Simplon-Bahn (BLS), könne ohne ihr Ressourcenplanungssystem langfristig nicht funktionieren. Im Gegensatz zu Kiechler  empfindet er diese Situation jedoch als weitaus weniger schlimm: «Ich finde, Technologie und die Möglichkeiten, die Technologie bieten, die sind brillant, das ist genial.» Massnahmen werden bei solch wichtigen Systemen aber immer ergriffen: «Wenn wir wissen, dass ein System für den operativen Betrieb des Unternehmens, also bei uns jetzt Zugfahren zum Beispiel, kritisch ist und dass man ohne dieses System nicht fahren kann, dann muss man einfach schauen, dass das System stabil ist und entsprechend dann, wenn es eine Panne gibt, dass man dann sofort reagieren kann.» Eine Voreingenommenheit sieht er bei sich selbst natürlich auch. Angst haben muss man also nach ihm nicht, es sei keine andere Entwicklung, als es sie auch schon in der Vergangenheit gegeben habe. Als Beispiel gab er uns das Smartphone: Er sei ohne ein solches aufgewachsen, aber er würde es selbst nicht mehr freiwillig weglegen. Solche Veränderungen und Entwicklungen seien also nichts Neues in dem Sinn, Zweifel seien normal, doch Versuche, diese technische Entwicklung aufzuhalten, wären nutzlos: «Was technologisch möglich ist, wird gemacht. Immer. Irgendwo. Das ist so. Man kann die Innovation und die technologischen Möglichkeiten nicht einschränken, dass es nicht gemacht wird. Klappt nicht.»
 
-![Jean-Marc Leutenegger Leiter der Informatik BLS ](leutenegger.jpeg)
+<p align="center">
+  <img src="leutenegger.jpeg" alt="Jean-Marc Leutenegger" style="width:50%">
+  <figcaption>Jean-Marc Leutenegger Leiter der Informatik BLS </figcaption>
+</p>
 
  Sicherheit ist jedoch nicht das einzige Problem: Privatsphäre wird gerade intensiv in verschiedenen Staaten diskutiert. Gerade weil die Benutzung künstlicher Intelligenzen zunimmt und zunehmen wird, entstehen immer mehr Konflikte, zum Beispiel Urheberrechtsverletzungen bei Bildern, die verwendet wurden, um generative KIs zu trainieren. Diese urheberrechtlich geschützten Bilder können dann von der KI als «Inspiration» für «neue» Bilder benutzt werden. Laut Leutenegger ist das aber kein Grund zur Sorge, es würden sich in der Zukunft Regeln und Gesetzte einpendeln, mit denen schliesslich eine korrekte und faire Benutzung gewährleistet werden kann.
 
